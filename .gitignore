@@ -1,0 +1,15 @@
+.gradle
+build/
+target/
+log/
+!**/src/main/**/target/
+!**/src/test/**/target/
+src/main/generated
+**/*~lock*
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
